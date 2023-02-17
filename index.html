@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="icon" type="image/x-icon" href="./assets/public/favicon.ico">
+    <link rel="icon" type="image/x-icon" sizes="512x512" href="./assets/public/android-chrome-512x512.png">
+    <link rel="icon" type="image/x-icon" sizes="192x192" href="./assets/public/android-chrome-192x192.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="180x180" href="./assets/public/apple-touch-icon.png">
+    <link rel="icon" type="image/x-icon" sizes="32x32" href="./assets/public/favicon-32x32.png">
+    <link rel="icon" type="image/x-icon" sizes="16x16" href="./assets/public/favicon-16x16.png">
+    <link rel="manifest" href="./assets/public/site.webmanifest">
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gmail Links</title>
+    <meta name="author" content="Juan Pablo Silva"/>
+    <meta
+      name="description"
+      content="Organizing all my Gmails in one link to be more productive."
+    />
+    <meta property="og:image" content="https://user-images.githubusercontent.com/113949476/218243902-52bd4427-d1b8-44a6-96b8-98e68e1e0846.jpg" />
+    <meta property="og:type" content="website">
+  </head>
+  <body>
+    <div id="container">
+      <div id="profile">
+        <img
+          src="./assets/avatar.png"
+          alt="Gmail logo com fundo escuro"
+        />
+        <p>Gmail Links</p>
+      </div>
+
+      <div id="switch" onclick="toggleMode()">
+        <button></button>
+        <span></span>
+      </div>
+
+      <ul>
+        <li>
+          <a href="https://mail.google.com/mail/u/0/" target="_blank">Personal</a>
+        </li>
+
+        <li>
+          <a href="https://mail.google.com/mail/u/1/" target="_blank">News</a>
+        </li>
+
+        <li>
+          <a href="https://mail.google.com/mail/u/2/" target="_blank">Professional</a>
+        </li>
+
+        <li>
+          <a href="https://mail.google.com/mail/u/3/" target="_blank">Gaming</a>
+        </li>
+      </ul>
+      
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
