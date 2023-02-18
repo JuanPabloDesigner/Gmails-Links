@@ -1,8 +1,8 @@
 <h1 align="center"> My YouTube Playlists </h1>
 
 <p align="center">
-All my YouTube playlists are organized and styled in one link. <br/>
-You can see the website by <a href="https://juanpablodesigner.github.io/My_YT_Playlists/">clicking here.</a>
+Organizing all my Gmails in one link to be more productive. <br/>
+You can see the website by <a href="https://juanpablodesigner.github.io/Gmails-links/">clicking here.</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ You can see the website by <a href="https://juanpablodesigner.github.io/My_YT_Pl
 <br>
 
 <p align="center">
-  <img alt="project preview" src="https://user-images.githubusercontent.com/113949476/218243902-52bd4427-d1b8-44a6-96b8-98e68e1e0846.jpg" width="100%">
+  <img alt="project preview" src="https://user-images.githubusercontent.com/113949476/219824971-a2f9c395-1345-4844-9ed8-ae272cdbfedf.png" width="100%">
 </p>
 
 ## 🚀 Techs
@@ -32,9 +32,9 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-This Project is a link aggregator that organizes all my YouTube playlists and is personalized with HTML, CSS, and JavaScript to train my coding skills.
+This Project is a link aggregator that organizes all my email accounts and it's personalized with HTML, CSS, and JavaScript to train my coding skills.
 
-- [Access the finished project. Online.](https://juanpablodesigner.github.io/My_YT_Playlists/)
+- [Access the finished project. Online.](https://juanpablodesigner.github.io/Gmails-Links/)
 
 ## :memo: Licence
 

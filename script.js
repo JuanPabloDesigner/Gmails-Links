@@ -5,10 +5,10 @@ function toggleMode() {
     const img = document.querySelector("#profile img")
     if (html.classList.contains("light")) {
       img.setAttribute("src", "./assets/avatar-light.png")
-      img.setAttribute("alt", "Gmail logo com fundo claro")
+      img.setAttribute("alt", "Gmail logo with light background")
     } else {
       img.setAttribute("src", "./assets/avatar.png")
-      img.setAttribute("alt", "Gmail logo com fundo escuro")
+      img.setAttribute("alt", "Gmail logo with dark background")
     }
   }
   
