@@ -2,7 +2,7 @@
 
 <p align="center">
 Organizing all my Gmails in one link to be more productive. <br/>
-You can see the website by <a href="https://juanpablodesigner.github.io/Gmails-links/">clicking here.</a>
+You can see the website by <a href="https://juanpablodesigner.github.io/Gmails-Links/">clicking here.</a>
 </p>
 
 <p align="center">
