@@ -1,4 +1,4 @@
-<h1 align="center"> My YouTube Playlists </h1>
+<h1 align="center"> Gmails Links </h1>
 
 <p align="center">
 Organizing all my Gmails in one link to be more productive. <br/>
